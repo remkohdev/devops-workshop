@@ -10,6 +10,7 @@
   - [Current](#current)
 - [Hands-on Labs](#hands-on-labs)
   - [Current](#current-1)
+  - [Patterns](#patterns)
 - [Demos](#demos)
 - [IBM DevOps](#ibm-devops)
 - [Compatibility](#compatibility)
@@ -86,6 +87,14 @@ The DevOps Workshop covers different technologies and strategies to deploy Micro
 | - | [Operators 301: Bind an IBM Cloud Service to a Cluster with the IBM Operator](https://github.com/timroster/digidevcon-iks/tree/master/workshop) | - | - |
 | - | OpenShift 101: [Logging, Monitoring and Telemetry](https://ibm-developer.gitbook.io/openshift101/workshop/exercise-02) | - | - |
 | - | [Portable Development Environments using DevFile](https://github.com/odrodrig/devfile-lab) | - | - |
+
+
+### Patterns
+
+| Duration | Title | Description | Comments |
+| - | - | - | - |
+| - | [Infrastructure as Code (IaC)](https://pages.github.ibm.com/att-cloudnative/ibmcloud-pattern-guide/iac/content-overview/) | - | Work in Progress |
+
 
 ## Demos
 
